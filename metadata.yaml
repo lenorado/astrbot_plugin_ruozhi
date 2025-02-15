@@ -1,0 +1,5 @@
+name: astrbot_plugin_ruozhi # 这是你的插件的唯一识别名。
+desc: 输入rz随机输出一条贴吧评论，默认输出弱智吧，如果想输出其他吧在后面加上吧名，例如/rz 弱智 # 插件简短描述
+version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: lenorado # 作者
+repo: https://github.com/lenorado/astrbot_plugin_ruozhi # 插件的仓库地址
